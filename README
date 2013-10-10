@@ -3,3 +3,5 @@ Scripts used to query the Virus Total API.
 vt-submit.py - Scan URLs and files for VT reports. Submit files if not fount in VT.
 vt-dns.py - Query the VT API for IP and domain reports.
 postfile.py - Used to POST suspicious files to VT.
+
+https://www.virustotal.com/en/documentation/public-api/
